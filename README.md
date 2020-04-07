@@ -1,5 +1,5 @@
 # PythonCrashCourse
-Python-Crash-Course-Part1 This is the python crash course series .
+This is a python crash course series.
 I am going to put things in such a way that everybody could understand (beginner to expert)
 For Intermediates, this could be the revision of their python language.
 I'm going to mention the main topics that a python programmer should have knowledge about.
